@@ -48,9 +48,7 @@ Testing & Tools: Postman, Redux Toolkit
 
 I'm currently diving into the world of blockchain with Hyperledger Fabric — exploring how distributed ledgers and smart contracts can power the next-gen of enterprise apps.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=taherbadri&show_icons=true&theme=dark&hide_border=true" width="80%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taherbadri&layout=compact&theme=dark&hide_border=true" width="80%" /> </p>
-
-<p align="center"> <a href="https://linkedin.com/in/taherbadri" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:badri.taher@yahoo.com"> <img src="https://img.shields.io/badge/Email-DarkRed?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/taherbadri" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://linkedin.com/in/taherbadri" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/taherbadri" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 
 
 
