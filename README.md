@@ -27,26 +27,31 @@ const whoAmI = {
   currentlyLearning: "Hyperledger Fabric ⛓️",
   funFact: "I write code faster than I write emails."
 }
+```
 
-🛠️ Technologies I Use
-
-Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, ShadCN
-
-Backend: Node.js, Express.js, Mongoose
-
-Databases: MongoDB, PostgreSQL, Redis
-
-DevOps / Infra: AWS, Linux, Nginx
-
+Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, ShadCN  
+Backend: Node.js, Express.js, Mongoose  
+Databases: MongoDB, PostgreSQL, Redis  
+DevOps / Infra: AWS, Linux, Nginx  
 Testing & Tools: Postman, Redux Toolkit
-
-🚀 Current Focus
 
 I'm currently diving into the world of blockchain with Hyperledger Fabric — exploring how distributed ledgers and smart contracts can power the next-gen of enterprise apps.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=taherbadri&show_icons=true&theme=dark&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taherbadri&layout=compact&theme=dark&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=taherbadri&theme=dark&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taherbadri&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taherbadri&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=taherbadri&theme=dark&hide_border=true" />
+</p>
+
+<a href="https://linkedin.com/in/taherbadri" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+</a>
+<a href="mailto:badri.taher@yahoo.com">
+  <img src="https://img.shields.io/badge/Email-DarkRed?style=flat&logo=gmail" />
+</a>
 
 
-📫 Let's Connect
 
-<p> <a href="https://linkedin.com/in/taherbadri" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /> </a> <a href="mailto:badri.taher@yahoo.com"> <img src="https://img.shields.io/badge/Email-DarkRed?style=flat&logo=gmail" /> </a> </p>
